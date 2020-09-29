@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... Computer Vision projects
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything!
-- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/jordandarbyshire/)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/jordandarbyshire/), [E-mail](jordan.darbyshire@gmail.com)
 - 😄 2020 Goals: ... Continue to advance my Data Science skills to gain employment in the Tech industry
 - ⚡ Fun fact: ... I'm a Professional Geologist from Alberta currently working in the Energy Industry
