@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan 👋
 
-## I'm a Husband, Father of Two, and Geologist / Data Scientist!
+## I'm a Husband, Father of Two, part-time Geologist and Data Scientist!
 
 - 🔭 I’m currently working on ... Object Detection
 - 🌱 I’m currently learning ... TensorFlow
