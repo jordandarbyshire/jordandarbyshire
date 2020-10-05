@@ -1,6 +1,6 @@
 ### Hi there, I'm Jordan 👋
 
-## I'm a Geologist x Data Scientist!
+## Data Scientist | Geologist | AI and Machine Learning Enthusiast
 
 - 🔭 I’m currently working on ... Object Detection
 - 🌱 I’m currently learning ... TensorFlow
